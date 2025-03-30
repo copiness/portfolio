@@ -32,7 +32,7 @@ export const projects = [
   {
     title: "CineMatch",
     image: mov,
-    github: "https://github.com/teshank2137/fanMerch",
+    github: "",
     link: "",
     description:
       "A smart movie recommender system powered by Machine Learning and Streamlit. 🎬✨",

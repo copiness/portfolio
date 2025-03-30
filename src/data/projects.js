@@ -42,7 +42,7 @@ export const projects = [
     description:
       "A data-driven crop production analysis using visualization. 🌾📊",
     image: crop,
-    link: "",
+    link: "https://profound-pavlova-0c5c71.netlify.app/",
   },
 
   {
